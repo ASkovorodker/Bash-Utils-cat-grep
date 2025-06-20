@@ -1,0 +1,9 @@
+it`s first string
+
+    00__
+
+Another string in this file
+
+Hello, world!
+1234
+it`s last string
